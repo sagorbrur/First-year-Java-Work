@@ -1,0 +1,19 @@
+answer of query's 
+a) select ct_id,ct_name,ct_address from election natural join contestant
+where number_Of_votes >10000;
+
+b) select count(ct_id)
+from election
+group by c_id;
+
+c) SELECT contestant.ct_id,contestant.ct_name,contestant.ct_address ,election.c_id,election.number_of_votes FROM contestant , election 
+where election.number_of_votes in (select max(number_of_votes) from election group by c_id);
+d)
+create or replace function vote_count(nameOfContestant varchar )
+return integer is v_count integer;
+begin
+select number_Of_votes into v_count
+from election 
+where ct_id in (select ct_id from contestant where contestant.ct_name=vote_count.nameOfContestant);
+return v_count; 
+end;

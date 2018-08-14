@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+C:\Users\Sagor Sarker\Desktop\Java Programming Example\New folder\Student Server\.metadata\.plugins\org.eclipse.jdt.core
+62930810.index
+2029657021.index
+943576790.index
+3880322500.index

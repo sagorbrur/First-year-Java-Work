@@ -1,0 +1,62 @@
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/c1"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:text="Welcome to Begum Rokeya University"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#DB5146" />
+
+    <Button
+        android:id="@+id/about"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="#97C023"
+        android:text="ABOUT BRUR"
+        android:textStyle="bold"
+        
+        android:onClick="showAbout" />
+    
+    <Button
+        android:id="@+id/campus"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:background="#97C023"
+        android:text="CAMPUS"
+        android:textStyle="bold"
+        android:onClick="showCampus" />
+
+    <Button
+        android:id="@+id/admission"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:background="#97C023"
+        android:text="ADMISSION"
+        android:textStyle="bold" 
+        android:onClick="showAdmission"/>
+    <Button
+        android:id="@+id/Departments"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:background="#97C023"
+        android:text="DEPARTMENTS"
+        android:textStyle="bold" 
+        android:onClick="showDepartment"/>
+
+</LinearLayout>

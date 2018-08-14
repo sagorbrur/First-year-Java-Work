@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Begum Rokeya University</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="message">
+        <b>Begum Rokeya University, Rangpur</b>
+        \n\n<b>Established:\t\t\t2008</b>
+        \n\n<b>Chancellor:\t\t\tPresident of\n\t\t\t\t\t\t\tBangladesh\n\t\t\t\t\t\t\tAbdul Hamid</b>
+        \n\n<b>Vice-Chancellor:\tDr. A.K.M Nurun Nabi</b>
+        \n\n<b>Students:\t\t\t\tNearly 7000</b>
+        \n\n<b>Moto:\t\t\t\t\tKnowledge is power</b>
+        \n\n<b>Nickname:\t\t\tBRUR</b>
+        \n\n\nBegum Rokeya University, Rangpur (BRUR), 
+        formerly Rangpur University, 
+        is a government financed public university in Bangladesh. 
+        It is the first general categorized university in Rangpur 
+        Division and also the second Public university in the region. 
+        It is the 30th Public University of Bangladesh.It was established 
+        on 08 October, 2008 under Begum Rokeya University Act,2009(2009-29).
+        \n\n<b>Campus</b>
+        \n\nThe university is located between Rangpur Cadet College and 
+        Carmichael College in Rangpur. It covers an area of 75 acres 
+        (300,000 m2). The university has constructed four academic building 
+        and started class from August 2011 in the main campus. Currently, 
+        the university has twenty-one departments and amount of student is 
+        almost seven thousand. It contains three student halls 
+        (including two male and one female). There is a tremendous library and a 
+        cafeteria in the campus.
+        \n\n<b>History</b>
+        \n\nSince 1947, a university in this region has been a long cherished dream. 
+        A popular demand for a kind of university which can reach out to a 
+        large number of students desiring higher education in this vast region 
+        has always been intensely felt but has never been fulfilled. In 2001, 
+        the then Prime Minister, Sheikh Hasina laid the foundations of Rangpur 
+        University of Science and Technology. However, later on the establishment 
+        was cancelled. It was not until August 2007 when Fakhruddin Ahmed, 
+        Chief Advisor of the Caretaker Government, agreed in principle to 
+        establish a full fledged university in Rangpur.Finally, 
+        Dr. Fakhruddin Ahmad, in a historic cabinet meeting held in 
+        Rangpur on February 2, 2008, took the decision to establish a 
+        University in Rangpur. The Rangpur University Ordinance was 
+        approved by the cabinet on June 15, 2008. M. Lutfar Rahman 
+        was appointed the first Vice Chancellor on 20 October 2008. 
+        Two days later Hossain Zillur Rahman, the then Education and 
+        Commerce Advisor to the Caretaker Government formally inaugurated the university.
+        \n\n<b>Academics</b>
+        \n\n<b>Undergraduate Programs</b>
+        
+        \n\n1. B.Sc(Hons.)
+        \n2. B.A(Hons.)
+        \n3. B.B.A(Hons.)
+        \n4. B.S.S(Hons)
+        \n5. B.Sc(Engineering)
+       \n\n<b>Graduate Programs</b>
+       \n1. M.Sc.
+       \n2. M.A.
+       \n3. M.B.A.
+       \n4. M.S.S.
+       \n5. M.Sc.(Engineering)
+        
+        
+        </string>
+        <string name="admission_file">
+            <b>Admission</b>
+            \n\nBRUR enrolls undergraduate students. 
+            Students who want to get admission into BRUR
+             need to pass and compete on the merit list 
+             in the admission test which is highly competitive. 
+             Admission tests are arranged by the University under 
+             authority of admission council for all faculties. 
+             Statistics Based On Academic Year 2014-15 Admission : 
+             Total application : 90,402 Total Seats Available : 
+             1,258 Average applicant to seat ratio is 72:1. Acceptance rate : 1.39%
+             \n\n<b>Admission website</b>
+             
+             
+            
+            
+            
+        </string>
+        <string name="departments">
+            \n\n<b>Faculties and Departments</b>
+        \n<b>BRUR has 21 departments under 6 faculties</b>
+        \n\n<b>Faculty of Arts</b>
+        \n1. Department of Bangla
+        \n2. Department of English
+        \n3. Department of History and Archaeology
+        \n\n<b>Faculty of Science</b>
+        \n1. Department of Physics
+        \n2. Department of Chemistry
+        \n3. Department of Mathematics
+        \n4. Department of Statistics
+        \n\n<b>Faculty of Business Studies</b>
+        \n1. Department of Accounting and Information Systems
+        \n2. Department of Management Studies
+        \n3. Department of Marketing
+        \n4. Department of Finance and Banking
+        \n\n<b>Faculty of Social Science</b>
+        \n1. Department of Economics
+        \n2. Department of Sociology
+        \n3. Department of Political Science
+        \n4. Department of Public Administration
+        \n5. Department of Mass Communication and Journalism
+        \n6. Department of Women and Gender Studies
+        \n\n<b>Faculty of Engineering and Technology</b>
+        \n1. Department of Computer Science and Engineering
+        \n2. Department of Electronics and Telecommunication Engineering
+        \n\n<b>Faculty of Life and Earth Sciences</b>
+        \n1. Department of Geography and Environmental Science
+        \n2. Department of Disaster Management
+        
+            
+        </string>
+        <string name="action_search">Search</string>
+       
+    <string name="action_settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+     
+
+</resources>

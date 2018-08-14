@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.0
+Created-By: 11.0-b12 (Sun Microsystems Inc.)
+MIDlet-1: Calculator,/i.png,common.control.Calculator2
+MIDlet-Vendor: Nokia
+Background-Color: 0xFFFFFF
+Nokia-MIDlet-On-Screen-Keypad: gameactions
+Nokia-MIDlet-Category: Application
+MIDlet-Name: Enhanced Calculator for S60
+Inline-Editing-Supported: true
+Nokia-Platform: Nokia*
+Nokia-UI-Enhancement: CanvasHasBackground
+MIDlet-Version: 1.08
+Vertical-Move-Period: 2
+Vertical-Move-Delta: 10
+MIDlet-Description: Series 40 Calculator MIDlet for S60 3.1 and 3.2 QV
+ GA devices
+MIDlet-Data-Size: 150
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+

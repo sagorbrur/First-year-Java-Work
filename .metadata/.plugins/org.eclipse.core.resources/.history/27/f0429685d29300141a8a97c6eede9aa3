@@ -1,0 +1,22 @@
+import java.util.Scanner;
+public class extraWork {
+	public static void main(String[] args){
+		Scanner input=new Scanner(System.in);
+		int n,sum=0;
+		n=input.nextInt();
+		/*//for loop........
+		//printing 0 to 10
+		for(int i=0;i<=10;i++){
+			System.out.println(i);
+		}
+		//for loop for printing odd number in a range
+		for(int j=1;j<=100;j=j+2)
+			System.out.println(j);*/
+		//for loop for add natural number
+		for(int i=0;i<=n;i++){
+			sum=sum+i;
+		}
+		System.out.println(sum);
+	}
+
+}
